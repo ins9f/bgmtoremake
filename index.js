@@ -1,4 +1,4 @@
-var audio = new Audio("Audio2.m4a");
+var audio = new Audio("audio2.m4a");
 
 function playAudio() {
   audio.play();
